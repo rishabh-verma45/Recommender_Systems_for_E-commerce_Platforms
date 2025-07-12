@@ -17,7 +17,6 @@ This app recommends similar products based on **brand similarity within the same
 
 ## 📸 Screenshot
 
-> ![screenshot](screenshot.png)
 
 *_(Optional: Add a screenshot of your app GUI and name it `screenshot.png` in the repo)_*
 
